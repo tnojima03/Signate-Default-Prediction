@@ -27,7 +27,7 @@ grade:               顧客等級
 employment_length:   勤続年数  
 purpose:             借入目的  
 credit_score:        クレジットスコア  
-application_type:　　 借入申込種別(個人 or 連名)  
+application_type: 借入申込種別(個人 or 連名)  
 loan_status(目的変数): 債務不履行に陥ったかどうか  
 
 ### 感想 s
